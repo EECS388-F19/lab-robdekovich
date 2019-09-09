@@ -17,7 +17,7 @@ for i in nums:
 
 mean = sum / len(nums)
 
-print(sum)
-print(mean)
+print("Sum = " + str(sum))
+print("Average = " + str(mean))
 
 exit(0)
